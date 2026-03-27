@@ -23,7 +23,7 @@ export default function HomePage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 flex flex-col items-center text-center">
           <span className="badge bg-white/20 text-white mb-4 px-3 py-1 text-sm">New arrivals every week ✨</span>
           <h1 className="text-4xl md:text-6xl font-extrabold mb-6 leading-tight text-balance">
-            Shop Smarter,<br />Live Better
+            Shop Naveen Smarter,<br />Live Better
           </h1>
           <p className="text-primary-100 text-lg mb-8 max-w-xl">
             Discover thousands of products across every category. Quality guaranteed, shipped fast.
